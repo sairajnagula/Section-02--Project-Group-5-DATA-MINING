@@ -56,11 +56,11 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
-| SaiRaj(0603) | Data analysis, Testing |data analysis, Testing, build scripts |
+| SaiRaj(0603) | Data analysis, Testing |data analysis, Testing, Build scripts |
 | SuryaKiran(0650) | Web API, Data analysis, Python |  Data analysis, Python |
 | ArunKumar(0843) | Web API, Data analysis, Python |  Data analysis, Python |
-| Bharadwaj(0614)| Testing, Data analysis | Data analysis, test harness; |
-| Kamal Nayan(0266)| Testing, Data analysis | Data analysis, test harness; |
+| Bharadwaj(0614)| Testing, Data analysis | Data analysis, Test harness; |
+| Kamal Nayan(0266)| Testing, Data analysis | Data analysis, Test harness; |
 
 ### `DELIVERABLES AND CHECKPOINTS`
 ====================================================================================
