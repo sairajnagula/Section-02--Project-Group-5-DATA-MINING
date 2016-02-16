@@ -7,24 +7,24 @@
 
 We are planning to use twitter data to retrieve the data from twitter using O'Auth authentication. And provide API's for users to explore the trending topics, discover what people are talking about etc. As part of this we are planning to do the following tasks.
 
-	-API to find intersection between trends. 
+	-API to find intersection between trends.
 	-Collections of test results extracting text screen names and hashtags from tweets.
- 	-API for creating frequency distribution of words in tweets. 
+ 	-API for creating frequency distribution of words in tweets.
  	-Collecting lexical diversity of tweets and API for it.
 	-Generating histograms of words, screen names, and hashtags.
- 	-Generating a histogram of retweet counts and API for it.
-
+	-Generating a histogram of retweet counts and API for it.
+	
 ### DATA
 
 Using twitter data to retrieve the data from twitter using O'Auth authentication.
 
-1. API for retrieving trends
+1. API for retrieving trends.
 2. API to find intersection between trends 
-3. Collections of test results
+3. Collections of test results.
 4. Extracting text screen names and hashtags from tweets.
-5. API for creating frequency distribution of words in tweets. 
+5. API for creating frequency distribution of words in tweets.
 6. Collecting lexical diversity of tweets and API for it.
-7. Generating histograms of words, screen names, and hashtags
+7. Generating histograms of words, screen names, and hashtags.
 8. Generating a histogram of retweet counts AND API for it.
 
 ### RESEARCH QUESTIONS
