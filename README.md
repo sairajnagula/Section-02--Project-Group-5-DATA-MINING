@@ -3,7 +3,7 @@
 ##Providing API's to Explore Trending Topics, Discovering What People Are Talking About and More
 ===================================================================================================
 
-### OVERVIEW
+### `OVERVIEW`
 
 We are planning to use twitter data to retrieve the data from twitter using O'Auth authentication. And provide API's for users to explore the trending topics, discover what people are talking about etc. As part of this we are planning to do the following tasks.
 
@@ -14,7 +14,7 @@ We are planning to use twitter data to retrieve the data from twitter using O'Au
 	-Generating histograms of words, screen names, and hashtags.
 	-Generating a histogram of retweet counts and API for it.
 	
-### DATA
+### `DATA`
 
 Using twitter data to retrieve the data from twitter using O'Auth authentication.
 
@@ -27,7 +27,7 @@ Using twitter data to retrieve the data from twitter using O'Auth authentication
 7. Generating histograms of words, screen names, and hashtags.
 8. Generating a histogram of retweet counts AND API for it.
 
-### RESEARCH QUESTIONS
+### `RESEARCH QUESTIONS`
 
 To Explore Trending Topics, Discovering What People Are Talking About and More.
 
@@ -36,23 +36,23 @@ Tasks
 2. Retrieving data required for the above mentioned tasks.
 3. Creating API's where ever required so that users can use it.
 
-### MODELS AND ANALYSIS
+### `MODELS AND ANALYSIS`
 
 We are planning our models and preliminary analysis will be performed in a Jupyter Notebook and development in python.
  
-### CODE AND APPLICATION
+### `CODE AND APPLICATION`
 
 Will post the code in our GitHub repository and instructions on installation are in the README.md file at the root level.
 
-### PROJECT MANAGEMENT
+### `PROJECT MANAGEMENT`
 
 We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunkumar Bonthala, Kamal Nayan Raju Kanchanapalli.we will be sharing our work among ourselves. SaiRaj will be taking care of development, data analysis. Arunkumar and surya are taking back end work consisted of an API that was created to provide data to the front end. And Writing O Auth script to pull linked in Connections and Bharadwaj and kamal would work on data set, data analysis and UI development and together we are collaborating to check the progress of the project testing. 
 
 
-## PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
+## `PROJECT TEAM, DELIVERABLES AND CHECKPOINTS`
 ===============================================================================
 
-####TEAM
+####`TEAM`
 
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
@@ -62,7 +62,7 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 | Bharadwaj(0614)| Testing, Data analysis | Data analysis, test harness; |
 | Kamal Nayan(0266)| Testing, Data analysis | Data analysis, test harness; |
 
-### DELIVERABLES AND CHECKPOINTS
+### `DELIVERABLES AND CHECKPOINTS`
 ====================================================================================
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
