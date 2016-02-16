@@ -65,4 +65,4 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 2/15/16 | | | |
+| 2/15/16 | Collected data and analysed it.| All Team Members.| Check Point 1 Completed.|
