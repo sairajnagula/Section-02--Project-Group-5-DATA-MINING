@@ -12,7 +12,7 @@ We are planning to use twitter data to retrieve the data from twitter using O'Au
  	-API for creating frequency distribution of words in tweets. 
  	-Collecting lexical diversity of tweets and API for it.
 	-Generating histograms of words, screen names, and hashtags.
- 	-Generating a histogram of retweet counts and API for it
+ 	-Generating a histogram of retweet counts and API for it.
 
 ### DATA
 
@@ -25,7 +25,7 @@ Using twitter data to retrieve the data from twitter using O'Auth authentication
 5. API for creating frequency distribution of words in tweets. 
 6. Collecting lexical diversity of tweets and API for it.
 7. Generating histograms of words, screen names, and hashtags
-8. Generating a histogram of retweet counts AND API for it
+8. Generating a histogram of retweet counts AND API for it.
 
 ### RESEARCH QUESTIONS
 
