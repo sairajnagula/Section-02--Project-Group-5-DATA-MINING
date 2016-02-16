@@ -1,9 +1,9 @@
 # Section-02--Project-Group-5-DATA-MINING
 
-##Providing API's to Explore Trending Topics, Discovering What People Are Talking About and More.
+##Providing API's to Explore Trending Topics, Discovering What People Are Talking About and More
 ===================================================================================================
 
-### OVERVIEW.
+### OVERVIEW
 
 We are planning to use twitter data to retrieve the data from twitter using O'Auth authentication. And provide API's for users to explore the trending topics, discover what people are talking about etc. As part of this we are planning to do the following tasks.
 
@@ -50,6 +50,7 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 
 
 ## PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
+===============================================================================
 
 ####TEAM
 
@@ -62,6 +63,7 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 | Kamal Nayan(0266)| Testing, Data analysis | Data analysis, test harness; |
 
 ### DELIVERABLES AND CHECKPOINTS
+====================================================================================
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
