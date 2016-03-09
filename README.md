@@ -70,3 +70,6 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 2/15/16 | Collected data and analysed it.| All Team Members.| Check Point 1 Completed.|
 | 3/08/16 | creating a streaming script which collects data from twitter because twitter has a limit on number of requests people make per day.We are Writing a script to collect the trends in twitter data and aslo Writing a script to pull in all the tweets of each trend. | sairaj,surya,arun | developed an algorithm for performing analysis on tweets to see how many of them are psitive,negtive and neutral. |
+
+### NOTE:
+My self Bharadwaj Mateti and one of my group member Kamal Nayan Raju was working on collection of datasets and devolopment on user interface.
