@@ -30,6 +30,7 @@ Using twitter data to retrieve the data from twitter using O'Auth authentication
 ### `RESEARCH QUESTIONS`
 
 To Explore Trending Topics, Discovering What People Are Talking About and More.
+How social media impacts on people.
 
 Tasks
 1. Creating a script to access twitter data from OAuth and providing an API for it.
@@ -68,3 +69,4 @@ We are team of five, SaiRaj Nagula, Bharadwaj Mateti, Surya Kiran Yelagam, Arunk
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 2/15/16 | Collected data and analysed it.| All Team Members.| Check Point 1 Completed.|
+| 3/08/16 | creating a streaming script which collects data from twitter because twitter has a limit on number of requests people make per day.We are Writing a script to collect the trends in twitter data and aslo Writing a script to pull in all the tweets of each trend. | sairaj,surya,arun | developed an algorithm for performing analysis on tweets to see how many of them are psitive,negtive and neutral. |
