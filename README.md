@@ -39,7 +39,7 @@ Wikipedia - https://en.wikipedia.org/wiki/List_of_American_television_series
 To Explore Trending Topics, Discovering What People Are Talking About and More.
 How social media impacts on people.
 
-Tasks
+      Tasks
        1. Creating a script to access twitter data from OAuth and providing an API for it.
        2. Retrieving data required for the above mentioned tasks.
        3. Creating API's where ever required so that users can use it.
