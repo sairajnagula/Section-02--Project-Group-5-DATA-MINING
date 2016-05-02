@@ -7,12 +7,12 @@
 
 We are planning to use twitter data to retrieve the data from twitter using O'Auth authentication. And provide API's for users to explore the trending topics, discover what people are talking about etc. As part of this we are planning to do the following tasks.
 
-  →API to find intersection between trends.
-  →Collections of test results extracting text screen names and hashtags from tweets.
-  →API for creating frequency distribution of words in tweets.
-  →Collecting lexical diversity of tweets and API for it.
-  →Generating histograms of words, screen names, and hashtags.
-  →Generating a histogram of retweet counts and API for it.
+      →API to find intersection between trends.
+      →Collections of test results extracting text screen names and hashtags from tweets.
+      →API for creating frequency distribution of words in tweets.
+      →Collecting lexical diversity of tweets and API for it.
+      →Generating histograms of words, screen names, and hashtags.
+      →Generating a histogram of retweet counts and API for it.
 
 We tried to look at trending topics in twitter and take up one topic and capture the pulse of the users. We planed to analyze the tweets of a trend and produce some information which is not apparent and can be extracted through data mining techniques.
 
@@ -40,9 +40,9 @@ To Explore Trending Topics, Discovering What People Are Talking About and More.
 How social media impacts on people.
 
 Tasks
-1. Creating a script to access twitter data from OAuth and providing an API for it.
-2. Retrieving data required for the above mentioned tasks.
-3. Creating API's where ever required so that users can use it.
+       1. Creating a script to access twitter data from OAuth and providing an API for it.
+       2. Retrieving data required for the above mentioned tasks.
+       3. Creating API's where ever required so that users can use it.
 
 ### `MODELS AND ANALYSIS`
 
